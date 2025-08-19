@@ -1,0 +1,150 @@
+Conteúdo da Tabela 1:
+  ITEM                                      ESPECIFICAÇÃO  CATMAT  UF   QTD VALOR UNITÁRIO  VALOR TOTAL
+0    1  Alfinete mapa. Especificações técnicas: alfine...  344005  CX   840        R$ 9,99  R$ 8.391,60
+1    2  Apagador quadro branco. Especificações técnica...  427366  UN   739       R$ 10,00  R$ 7.390,00
+2    3  Apontador lápis. Especificações técnicas: apon...  468205  UN  1126        R$ 3,96  R$ 4.458,96
+3    4  Apontador lápis n°2 com depósito, material plá...  464636  UN  1110        R$ 3,81  R$ 4.229,10
+--------------------------------------------------
+Conteúdo da Tabela 2:
+     0                                                  1       2   3     4         5             6
+0    5  Bandeja expediente. Especificações técnicas: b...  440596  UN   633  R$ 65,00  R$ 41.145,00
+1    6  Barbante algodão. Especificações técnicas: bar...  435053  RL   536  R$ 18,00   R$ 9.648,00
+2    7  Bloco autoadesivo tipo Post-it 38x50mm 3M sort...  479101  PC  1840  R$ 16,90  R$ 31.096,00
+3    8  Bloco autoadesivo tipo Post-it 38x50mm 3M sort...  447930  PC  2090  R$ 18,95  R$ 39.605,50
+4    9  Bloco autoadesivo tipo Post-it 76x76mm 3M cor ...  412152  PC  2110  R$ 18,95  R$ 39.984,50
+5   10  Bloco autoadesivo tipo Post-it 76x102mm 3M ama...  447926  PC  1810  R$ 14,40  R$ 26.064,00
+6   11              Bobina calculadora 57mmx30m. Unidade.  434900  UN   404   R$ 4,99   R$ 2.015,96
+7   12  Borracha apagadora escrita. Especificações téc...  450795  CX   802  R$ 28,90  R$ 23.177,80
+8   13  Caixa arquivo. Especificações técnicas: caixa ...  468082  UN  3490   R$ 9,68  R$ 33.783,20
+9   14  Caderno anotações 13x21cm sem pauta 80 fls, Ca...  462543  UN  1140  R$ 40,30  R$ 45.942,00
+10  15  Calculadora de mesa (bat/solar/8 dígitos) pret...  243826  UN   280  R$ 31,40   R$ 8.792,00
+--------------------------------------------------
+Conteúdo da Tabela 3:
+   16 Caneta Corretiva tipo BIC, Corretivo Líquido 8ml. Unidade.  279258  UN  1620   R$ 7,96  R$ 12.895,20
+0  17  Caneta esferográfica. Especificações técnicas:...          300812  CX  2098  R$ 47,41  R$ 99.466,18
+1  18  Caneta esferográfica. Especificações técnicas:...          309415  CX  1768  R$ 47,50  R$ 83.980,00
+2  19  Caneta esferográfica. Especificações técnicas:...          300830  CX   406  R$ 40,00  R$ 16.240,00
+3  20  Caneta hidrográfica. Especificações técnicas: ...          317874  UN   812  R$ 12,50  R$ 10.150,00
+--------------------------------------------------
+Conteúdo da Tabela 4:
+    0                                                  1       2   3     4         5              6
+0  21  Caneta hidrográfica marcador quadro branco. Es...  303822                       R$ 24.763,87
+1                                                                 UN  1541  R$ 16,07
+2  22  Caneta hidrográfica marcador quadro branco. Es...  302539  UN  1471  R$ 11,80   R$ 17.357,80
+3  23  Caneta hidrográfica marcador quadro branco. Es...  302540  UN  1421  R$ 12,25   R$ 17.407,25
+4  24  Caneta marca-texto. Especificações técnicas: c...  413172  CX  2429  R$ 26,19   R$ 63.615,51
+5  25  Caneta marca-texto. Especificações técnicas: c...  435084  CX  2364  R$ 24,95   R$ 58.981,80
+6  26  Capa encadernação. Especificações técnicas: ca...  278728  PC  2512  R$ 52,00  R$ 130.624,00
+--------------------------------------------------
+Conteúdo da Tabela 5:
+    0                                                  1       2   3     4         5              6
+0  27  Capa encadernação. Especificações técnicas: ca...  278728  PC   395  R$ 52,00   R$ 20.540,00
+1  28  Capa encadernação. Especificações técnicas: ca...  278731  PC  2510  R$ 48,00  R$ 120.480,00
+2  29  Capa encadernação. Especificações técnicas: ca...  278731  PC   380  R$ 48,00   R$ 18.240,00
+3  30  Cartão PVC branco para confecção de crachá. Ca...  472869  UN  1054   R$ 4,55    R$ 4.795,70
+4  31  Elástico. Especificações técnicas: cinta elást...  401408  PC  1103   R$ 3,44    R$ 3.794,32
+5  32  Clipe. Especificações técnicas: clipe, tratame...  298736  CX  3250    R$5,22   R$ 16.965,00
+6  33  Clipe. Especificações técnicas: clipe, tratame...  292028  CX  3400   R$ 4,30   R$ 14.620,00
+--------------------------------------------------
+Conteúdo da Tabela 6:
+    0                                                  1       2   3     4         5             6
+0  34  Clipe. Especificações técnicas: clipe, tratame...  367974                      R$ 13.000,00
+1                                                                 CX  3250   R$ 4,00
+2  35  Clipe. Especificações técnicas: clipe, tratame...  298737  CX  3045   R$ 4,68  R$ 14.250,60
+3  36  Cola. Especificações técnicas: cola, composiçã...  345252  BS  1310   R$ 7,60   R$ 9.956,00
+4  37  Cola. Especificações técnicas: cola, composiçã...  335527  FC  3416   R$ 6,30  R$ 21.520,80
+5  38  Cola em bastão 20g, composição polivinil aceta...  335414  BS  2152  R$ 10,40  R$ 22.380,80
+6  39  Corretivo líquido frasco com 18ml à base de ág...  201129  CX   833  R$ 48,86  R$ 40.700,38
+7  40  Corretivo em fita 4,2mmx10m slim, apagar canet...  361356  UN  1760  R$ 27,60  R$ 48.576,00
+--------------------------------------------------
+Conteúdo da Tabela 7:
+    0                                                  1       2   3      4         5             6
+0  41  Embalagem plástica. Especificações técnicas: e...  264510  PC    515  R$ 97,86  R$ 50.397,90
+1  42  Envelope. Especificações técnicas: envelope, m...  459311  UN  12500   R$ 0,51   R$ 6.375,00
+2  43  Envelope. Especificações técnicas: envelope, m...  459309  UN  20500   R$ 0,53  R$ 10.865,00
+3  44  Envelope. Especificações técnicas: envelope, m...  467091  UN  11100   R$ 0,65   R$ 7.215,00
+4  45  Envelope. Especificações técnicas: envelope, m...  459341  UN   9650   R$ 1,49  R$ 14.378,50
+5  46  Espiral encadernação. Especificações técnicas:...  232320  PC   2024  R$ 39,00  R$ 78.936,00
+--------------------------------------------------
+Conteúdo da Tabela 8:
+    0                                                  1       2   3     4         5             6
+0  47  Estilete. Especificações técnicas: estilete, t...  406914  UN  2161  R$ 14,90  R$ 32.198,90
+1  48  Fita adesiva. Especificações técnicas: fita ad...  279108  UN  2890   R$ 1,60   R$ 4.624,00
+2  49  Fita adesiva. Especificações técnicas: fita ad...  230813  UN  2580  R$ 11,75  R$ 30.315,00
+3  50  Fita adesiva. Especificações técnicas: fita ad...  230814  UN  3050   R$ 8,90  R$ 27.145,00
+4  51  Fita crepe 48mmx50m. Fita Adesiva, material: c...  391988  UN  2580  R$ 14,62  R$ 37.719,60
+5  52  Grampeador. Especificações técnicas: grampeado...  234265  UN   837  R$ 59,00  R$ 49.383,00
+6  53  Grampeador. Especificações técnicas: grampeado...  232421  UN  2050  R$ 18,90  R$ 38.745,00
+--------------------------------------------------
+Conteúdo da Tabela 9:
+    0                                                  1       2    3     4         5             6
+0  54  Grampo grampeador. Especificações técnicas: gr...  244698   CX   850  R$ 19,35  R$ 16.447,50
+1  55  Grampo grampeador. Especificações técnicas: gr...  203151   CX  2105   R$ 9,00  R$ 18.945,00
+2  56  Grampo pasta. Especificações técnicas: grampo ...  310436   CX  1229  R$ 16,60  R$ 20.401,40
+3  57  Lâmina estilete. Especificações técnicas: lâmi...  419757  EMB   417  R$ 18,99   R$ 7.918,83
+4  58  Lápis preto. Especificações técnicas: lápis pr...  416540   CX  1187  R$ 53,49  R$ 63.492,63
+5  59  Livro ata. Especificações técnicas: livro ata,...  335321   UN  2650  R$ 15,34  R$ 40.651,00
+6  60  Livro ata. Especificações técnicas: livro ata,...  256942   UN  1480  R$ 30,60  R$ 45.288,00
+--------------------------------------------------
+Conteúdo da Tabela 10:
+    0                                                  1       2   3      4         5                6
+0  61  Malote. Comprimento: 20cm, largura: 15cm. Mate...  242024  UN   1665  R$ 32,30     R$ 53.779,50
+1  62  Marcador de Página Adesivo tipo Post-it 3M Fla...  397768  UN   2120  R$ 14,70     R$ 31.164,00
+2  63  Papel autoadesivo. Especificações técnicas: pa...  300701  RL   1339  R$ 88,05    R$ 117.898,95
+3  64  Papel A4. Especificações técnicas: papel A4, m...  440468  PC  29800  R$ 35,50  R$ 1.057.900,00
+4  65  Papel A4. Especificações técnicas: papel A4, m...  440468  PC    900  R$ 35,50     R$ 31.950,00
+5  66  Papel para Lembrete 85x85 75g/m2. Tipo papel: ...  462293  CX   1215  R$ 22,58     R$ 27.434,70
+6  67  Pasta arquivo. Especificações técnicas: pasta ...  244525  UN   3830   R$ 6,04     R$ 23.133,20
+--------------------------------------------------
+Conteúdo da Tabela 11:
+    0                                                  1       2   3      4         5              6
+0  68  Pasta arquivo. Material: plástico corrugado fl...  482238  UN   3530   R$ 8,49   R$ 29.969,70
+1  69  Pasta arquivo. Especificações técnicas: pasta ...  380737  UN   4370   R$ 3,23   R$ 14.115,10
+2  70  Pasta arquivo. Especificações técnicas: pasta ...  402797  UN   2900  R$ 26,89   R$ 77.981,00
+3  71  Pasta arquivo. Especificações técnicas: pasta ...  260573  UN   2790  R$ 19,32   R$ 53.902,80
+4  72  Pasta arquivo. Especificações técnicas: pasta ...  375501  UN  23580   R$ 2,52   R$ 59.421,60
+5  73  Pasta Arquivo. material: plástico, tipo: sanfo...  462579  UN   2695  R$ 56,32  R$ 151.782,40
+--------------------------------------------------
+Conteúdo da Tabela 12:
+    0                                                  1       2    3     4         5             6
+0  74  Pasta Arquivo. material: plástico, tipo: sanfo...  462579   UN   397  R$ 56,32  R$ 22.359,04
+1  75  Perfurador de papel 02 furos para 25fls. Perfu...  414987   UN  1089  R$ 28,90  R$ 31.472,10
+2  76  Perfurador de papel 02 furos para 50fls. Perfu...  434707   UN   839  R$ 70,03  R$ 58.755,17
+3  77  Pilha. Especificações técnicas: pilha, tamanho...  419862  EMB  1515  R$ 10,89  R$ 16.498,35
+4  78  Pilha. Especificações técnicas: pilha, tamanho...  419861  EMB  1215  R$ 12,60  R$ 15.309,00
+5  79  Pilha. Especificações técnicas: pilha, tamanho...  419860  EMB  5390   R$ 9,49  R$ 51.151,10
+--------------------------------------------------
+Conteúdo da Tabela 13:
+    0                                                  1       2    3     4         5             6
+0  80  Pilha. Especificações técnicas: pilha, tamanho...  419859  EMB  6490   R$ 9,00  R$ 58.410,00
+1  81  Pincel atômico. Especificações técnicas: pince...  202040   CX   748  R$ 45,34  R$ 33.914,32
+2  82  Pincel atômico. Especificações técnicas: pince...  202043   CX   703  R$ 42,62  R$ 29.961,86
+3  83  Porta Canetas, Clipes e Lembretes Trio. Materi...  283571   UN  1748  R$ 17,00  R$ 29.716,00
+4  84  Prancheta Portátil. Material: madeira, comprim...  413335   UN  1910  R$ 10,97  R$ 20.952,70
+5  85  Prendedor papel. Especificações técnicas: pren...  267595   CX  2118   R$ 7,39  R$ 15.652,02
+6  86  Prendedor papel. Especificações técnicas: pren...  267600   CX  2608  R$ 19,61  R$ 51.142,88
+--------------------------------------------------
+Conteúdo da Tabela 14:
+    0                                                  1       2   3      4         5              6
+0  87  Prendedor papel. Especificações técnicas: pren...  267599  CX   2354  R$ 25,00   R$ 58.850,00
+1  88  Prendedor De Crachá. Tipo: jacaré. Material: m...  321475  PC   1230  R$ 53,00   R$ 65.190,00
+2  89  Protetor Crachá. Material: pvc rígido transpar...  447869  PC   1605  R$ 11,50   R$ 18.457,50
+3  90  Régua escritório. Especificações técnicas: rég...  303762  UN   2730   R$ 2,75    R$ 7.507,50
+4  91  Tesoura. Especificações técnicas: tesoura, mat...  405466  UN   2176  R$ 11,36   R$ 24.719,36
+5  92  Grampo pasta. Especificações técnicas: grampo ...  602251  PC   2162  R$ 13,07   R$ 28.257,34
+6  93  Guardanapo de papel. Especificações técnicas: ...  280755  PC  68420   R$ 2,91  R$ 199.102,20
+--------------------------------------------------
+Conteúdo da Tabela 15:
+     0                                                  1       2   3      4         5              6
+0   94  Guardanapo de papel. Especificações técnicas: ...  280755  PC   4320   R$ 2,91   R$ 12.571,20
+1   95  Copo Descartável capacidade 200ml, material po...  226345  PC  85625   R$ 6,75  R$ 577.968,75
+2   96  Copo Descartável capacidade 200ml, material po...  226345  PC   2525   R$ 6,75   R$ 17.043,75
+3   97  Prendedor de Crachá Retrátil. Material: pvc, c...  449805  UN   5700   R$ 3,40   R$ 19.380,00
+4   98  Etiqueta Carta. Material: papel, formato: reta...  485553  CX   3244  R$ 54,90  R$ 178.095,60
+5   99  Etiqueta Carta. Material: papel, formato: reta...  485553  CX    192  R$ 54,90   R$ 10.540,80
+6  100  Lacre Malote, Material: Polipropileno de alta ...  404381  PC   9164  R$ 28,50  R$ 261.174,00
+--------------------------------------------------
+Conteúdo da Tabela 16:
+     0                                                  1       2   3    4         5             6
+0  101  Lacre Malote, Material: Polipropileno de alta ...  404381  PC  930  R$ 28,50  R$ 26.505,00
+1  102  Almofada para carimbo. Especificações técnicas...  411942  UN  900   R$ 9,00   R$ 8.100,00
