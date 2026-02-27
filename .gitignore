@@ -1,0 +1,11 @@
+# Pastas
+/base
+/base-2
+
+*.xlms
+*.csv
+*.json
+
+atas_baixadas/
+erros_md/
+tests/
